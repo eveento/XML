@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookstore>
+    <bookList>
+        <book>
+            <isbn>342424325</isbn>
+            <title2>Author</title2>
+            <title>Java XML</title>
+            <publisher>Polskie Lasy</publisher>
+        </book>
+        <book>
+            <isbn>342556546674</isbn>
+            <title2>Roche</title2>
+            <title>Frederico</title>
+            <publisher>Brazowe Lasy</publisher>
+        </book>
+    </bookList>
+    <location>Chopin Airport</location>
+    <name>Bookstore</name>
+</bookstore>
